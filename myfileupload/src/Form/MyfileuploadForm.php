@@ -69,7 +69,7 @@ class MyfileuploadForm extends FormBase {
       $fileContent = file_get_contents($oNewFile);
 
       if (strpos($fileContent, "fire") !== false) {
-        $form_state->setErrorByName('my_file', $this->t('File contains "fire" word!'));
+        $form_state->setErrorByName('my_file', $this->t('File have an "fire" word, hence unable to upload it!'));
       }
     }
     parent::validateForm($form, $form_state);
