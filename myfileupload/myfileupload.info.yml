@@ -1,0 +1,5 @@
+name: myfileupload
+type: module
+description: This validate uploaded file having Fire word.
+core: 8.x
+package: Custom
