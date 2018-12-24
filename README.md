@@ -1,7 +1,5 @@
 # Assignment
 
-Assignments
-
 ## Assignment 1
 
 Object Oriented programming is about modeling real life objects in code. Pick one of the options bellow and using OO PHP model the two objects and their relationship(s). Don't spend too much time on it (under 1 hour), we expect to see only a few properties/functions. There is no right or wrong answer. If you are familiar with the SOLID principles, this is a good time to put them to work. We expect to see 2 namespaced classes.
